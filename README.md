@@ -1,6 +1,7 @@
 # Machine-Learning-Foundations-for-Product-Managers-Project
 Machine learning project predicting the energy output of a power plant using environmental data (temperature, pressure, humidity, vacuum). Linear Regression and Random Forest models were compared, with Random Forest achieving better accuracy. Key steps include data exploration, model building, cross-validation, and performance evaluation.
-Steps for Power Plant Energy Output Prediction Project
+
+# Steps for Power Plant Energy Output Prediction Project
 
 •	Step 1: Problem Understanding
 - Define the problem: Predict energy output based on environmental conditions.
